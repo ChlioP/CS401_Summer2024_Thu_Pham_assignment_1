@@ -13,7 +13,8 @@ A simple console-based calculator application that performs basic arithmetic ope
 ## Example Interaction
 
 <img width="849" alt="Screenshot 2024-06-10 at 6 39 25 PM" src="https://github.com/ChlioP/CS401_Summer2024_Thu_Pham_assignment_1/assets/165505759/7042d176-a5b7-4596-857f-7cc50a4334be">
-<img width="743" alt="Screenshot 2024-06-10 at 6 39 36 PM" src="https://github.com/ChlioP/CS401_Summer2024_Thu_Pham_assignment_1/assets/165505759/899253fe-5cd7-4053-9028-55e120e5e77a">
+<img width="820" alt="Screenshot 2024-06-10 at 6 53 05 PM" src="https://github.com/ChlioP/CS401_Summer2024_Thu_Pham_assignment_1/assets/165505759/910c5ebd-d1c8-4032-aab2-14a0a390b574">
+
 
 ## Getting Started
 
